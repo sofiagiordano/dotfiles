@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = sofiagiordano98@outlook.it
+	name = Sofia Giordano
